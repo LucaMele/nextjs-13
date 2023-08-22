@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-13",
+  "version": "1.0.0",
+  "description": "Testing new features of next13. Main guide: https://www.youtube.com/watch?v=843nec-IvW0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucaMele/nextjs-13.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucaMele/nextjs-13/issues"
+  },
+  "homepage": "https://github.com/LucaMele/nextjs-13#readme"
+}
